@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1629053491 source:a:\computer graphics\city project\city project.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<conio.h>
+
+1629655183 source:a:\computer graphics\project & extra\city project\city project.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<conio.h>
+	<Windows.h>
+	<MMSystem.h>
+
+1650178747 source:s:\computer graphics\project & extra\city project\city project.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<conio.h>
+	<Windows.h>
+	<MMSystem.h>
+
+1650178747 source:s:\prev\computer graphics\project & extra\city project\city project.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<conio.h>
+	<Windows.h>
+	<MMSystem.h>
+
+1650178747 source:f:\prev\computer graphics\project & extra\city project\city project.c
+	<GL/gl.h>
+	<GL/glut.h>
+	<stdio.h>
+	<conio.h>
+	<Windows.h>
+	<MMSystem.h>
+
